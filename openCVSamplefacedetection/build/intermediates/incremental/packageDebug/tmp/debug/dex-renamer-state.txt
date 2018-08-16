@@ -1,0 +1,4 @@
+#Fri Aug 17 01:00:23 CST 2018
+base.0=D\:\\Code\\githupRepo\\face-detection\\openCVSamplefacedetection\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
